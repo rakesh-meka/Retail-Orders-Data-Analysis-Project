@@ -94,4 +94,4 @@ Contributions are welcome! Feel free to submit **issues** or **pull requests** t
 ---
 
 ## 📧 **Contact**
-For questions or collaboration, reach out via **[Your Email/Contact Details]**.
+For questions or collaboration, reach out via **rakeshmeka.work@gmail.com**.
