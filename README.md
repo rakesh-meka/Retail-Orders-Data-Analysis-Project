@@ -51,30 +51,6 @@ This project involves analyzing retail orders data sourced from **Kaggle**. The 
 
 ---
 
-## 🛠️ **Installation Instructions**
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   ```
-2. Install the required Python libraries:
-   ```bash
-   pip install pandas matplotlib seaborn pyodbc
-   ```
-3. Connect to **SQL Server** by modifying the connection string in the **Jupyter Notebook**.
-4. Run the notebook to clean data and export it to SQL Server.
-
----
-
-## 📑 **Dataset Description**
-- The dataset includes various columns such as:
-  - 🆔 **Order ID**: Unique identifier for each order
-  - 📦 **Product Name**: Name of the product ordered
-  - 🔢 **Quantity Ordered**: Number of items in the order
-  - 📅 **Order Date**: Date the order was placed
-  - 👤 **Customer ID**: Unique identifier for each customer
-
----
-
 ## 📈 **Key Insights**
 ✅ Identified **peak sales periods** and **trends**.  
 ✅ Recognized **top-selling products** and **customer segments**.  
