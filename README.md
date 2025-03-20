@@ -4,13 +4,14 @@
 **Retail Orders Analysis and Data Pipeline with SQL Integration**
 
 ## 📋 **Project Description**
-This project involves analyzing retail orders data sourced from **Kaggle**. The data was cleaned, transformed, and loaded into **Microsoft SQL Server** using **Jupyter Notebook**. The goal of this project is to demonstrate data wrangling, transformation, and visualization skills while maintaining a robust data pipeline workflow.
+This project involves analyzing retail orders data sourced from **Kaggle**. The data was downloaded as a **ZIP file** through the **Kaggle API**, extracted using code in **Jupyter Notebook**, then cleaned, transformed, and loaded into **Microsoft SQL Server**. The goal of this project is to demonstrate data wrangling, transformation, and visualization skills while maintaining a robust data pipeline workflow.
 
 ---
 
 ## 🚀 **Project Workflow**
 ### 🔹 **Data Extraction**
 - The dataset was imported from **Kaggle** using the Kaggle API.
+- The dataset was downloaded as a **ZIP file**, extracted using Python code in **Jupyter Notebook**.
 - The data was loaded directly into **Jupyter Notebook** for further processing.
 
 ### 🔹 **Data Cleaning and Transformation**
@@ -23,13 +24,13 @@ This project involves analyzing retail orders data sourced from **Kaggle**. The 
 
 ### 🔹 **Data Analysis and Insights**
 #### 📊 **Key SQL Analysis Questions**
-- 🔸 **Top 10 revenue-generating categories and subcategories**
-- 🔸 **Top 5 highest-selling products in each region**
-- 🔸 **Month-over-month growth comparison for 2022 and 2023 sales**
-- 🔸 **Identifying the month with the highest sales for each category**
-- 🔸 **Category with the highest growth percentage in profit in 2023 compared to 2022**
-- 🔸 **Subcategory with the highest growth percentage in profit in 2023 compared to 2022**
-- 🔸 **Top 5 states with the highest sales**
+  🔸 **Top 10 revenue-generating categories and subcategories**
+  🔸 **Top 5 highest-selling products in each region**
+  🔸 **Month-over-month growth comparison for 2022 and 2023 sales**
+  🔸 **Identifying the month with the highest sales for each category**
+  🔸 **Category with the highest growth percentage in profit in 2023 compared to 2022**
+  🔸 **Subcategory with the highest growth percentage in profit in 2023 compared to 2022**
+  🔸 **Top 5 states with the highest sales**
 
 ---
 
@@ -43,8 +44,8 @@ This project involves analyzing retail orders data sourced from **Kaggle**. The 
 
 ## ⚙️ **Requirements**
 - **Python Libraries:**
--  - `pandas`
- - `pyodbc` (for SQL Server connection)
+- `pandas`
+- `pyodbc` (for SQL Server connection)
 - **Microsoft SQL Server** (with database setup for data storage)
 - **Jupyter Notebook**
 
