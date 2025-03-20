@@ -43,10 +43,8 @@ This project involves analyzing retail orders data sourced from **Kaggle**. The 
 
 ## ⚙️ **Requirements**
 - **Python Libraries:**
-  - `pandas`
-  - `matplotlib`
-  - `seaborn`
-  - `pyodbc` (for SQL Server connection)
+-  - `pandas`
+ - `pyodbc` (for SQL Server connection)
 - **Microsoft SQL Server** (with database setup for data storage)
 - **Jupyter Notebook**
 
